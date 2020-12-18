@@ -1,0 +1,16 @@
+*{
+    font-family: Bahnschrift;
+}
+
+.card-img-top {
+    width: 20%;
+    align-self: center;
+    padding-top: 20px;
+    /* height: 15vw; */
+    /* object-fit: cover; */
+}
+
+.card-title{
+    text-align: center;
+}
+
